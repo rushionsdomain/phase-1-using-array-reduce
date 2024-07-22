@@ -37,5 +37,8 @@
   },
   "dependencies": {
     "expect": "^24.7.1"
+  },
+  "directories": {
+    "test": "test"
   }
 }
